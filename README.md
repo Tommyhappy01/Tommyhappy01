@@ -40,4 +40,3 @@ DATA SIENCE
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=zeynulsuleyman&theme=chartreuse-dark" alt="my commit status" width="49%" /> </p>
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zeynulsuleyman&theme=chartreuse-dark&layout=compact" alt="languages" width="50%" > </p>
 
-
