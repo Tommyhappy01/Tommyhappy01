@@ -25,6 +25,8 @@
 <div align="center"> <h1 align="center"> :see_no_evil: DATA VISUALIZATION </h1> </div>
 <p align="center">
 <a href="#" target="_blank"> <img src="https://matplotlib.org/stable/_static/logo2_compressed.svg" alt="Matplotlib" height="60"/> </a>
+<a href="#" target="_blank"> <img src="https://topb0ts.wpenginepowered.com/wp-content/uploads/2019/02/NLP_feature_image_1600px-1024x583.jpg" alt="Matplotlib" height="60"/> </a>
+
 <a href="#" target="_blank"> <img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" height="60"/> </a>
 <a href="#" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Pandas_logo.svg/2560px-Pandas_logo.svg.png" alt="Pandas" height="60"/> </a>
 <a href="#" target="_blank"> <img src="https://insightsoftware.com/wp-content/uploads/2018/03/blog-microsoft-power-bi-solid-color.jpg" alt="Microsoft Power BI" height="60"/> </a>
