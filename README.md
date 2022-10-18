@@ -25,8 +25,6 @@
 <div align="center"> <h1 align="center"> :see_no_evil: DATA VISUALIZATION </h1> </div>
 <p align="center">
 <a href="#" target="_blank"> <img src="https://matplotlib.org/stable/_static/logo2_compressed.svg" alt="Matplotlib" height="60"/> </a>
-<a href="#" target="_blank"> <img src="https://topb0ts.wpenginepowered.com/wp-content/uploads/2019/02/NLP_feature_image_1600px-1024x583.jpg" alt="Matplotlib" height="60"/> </a>
-
 <a href="#" target="_blank"> <img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" height="60"/> </a>
 <a href="#" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Pandas_logo.svg/2560px-Pandas_logo.svg.png" alt="Pandas" height="60"/> </a>
 <a href="#" target="_blank"> <img src="https://insightsoftware.com/wp-content/uploads/2018/03/blog-microsoft-power-bi-solid-color.jpg" alt="Microsoft Power BI" height="60"/> </a>
@@ -61,6 +59,7 @@
 </p align="center">
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tommyhappy01&theme=algolia&layout=compact" alt="languages" width="50%" >
 </p>
+<a href="#" target="_blank"> <img src="https://topb0ts.wpenginepowered.com/wp-content/uploads/2019/02/NLP_feature_image_1600px-1024x583.jpg" alt="Matplotlib" height="60"/> </a>
 <p align="center">
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=tommyhappy01&count_private=true&theme=algolia&show_icons=true&hide_border=true" alt="my github stats" width="48%"/>&nbsp;
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tommyhappy01&theme=algolia" alt="my commit status" width="48.2%"/>
