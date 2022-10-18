@@ -67,22 +67,22 @@
 <div align="center"> <h1 align="center"> 💾 MY REPOSITORIES  </h1> </div>
 <p align="center">
 <a href="https://github.com/Tommyhappy01/01_DATA_SCIENCE_NOTEBOOKS">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Tommyhappy01&repo=01_DATA_SCIENCE_NOTEBOOKS&theme=algolia" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=emir1031&repo=01_DATA_SCIENCE_NOTEBOOKS&theme=algolia" />
 </a>
 <a href="https://github.com/Tommyhappy01/02_ASSIGNMENTS">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Tommyhappy01&repo=02_ASSIGNMENTS&theme=algolia" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=emir1031&repo=02_ASSIGNMENTS&theme=algolia" />
 </a>
 <a href="https://github.com/Tommyhappy01/03_PROJECTS">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Tommyhappy01&repo=03_PROJECTS&theme=algolia" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=emir1031&repo=03_PROJECTS&theme=algolia" />
 </a>
 <a href="https://github.com/Tommyhappy01/04_PYTHON">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Tommyhappy01&repo=04_PYTHON&theme=algolia" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=emir1031&repo=04_PYTHON&theme=algolia" />
 </a>
 <a href="https://github.com/Tommyhappy01/05_SQL">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Tommyhappy01&repo=05_SQL&theme=algolia" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=emir1031&repo=05_SQL&theme=algolia" />
 </a>
 <a href="https://github.com/Tommyhappy01/06_GSS_SPREADSHEET">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Tommyhappy01&repo=06_GSS_SPREADSHEET&theme=algolia" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=emir1031&repo=06_GSS_SPREADSHEET&theme=algolia" />
 </a>
 <a href="https://github.com/Tommyhappy01Tommyhappy01/07_TABLEAU">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=emir1031&repo=07_TABLEAU&theme=algolia" />
