@@ -66,34 +66,34 @@
 </p>
 <div align="center"> <h1 align="center"> 💾 MY REPOSITORIES  </h1> </div>
 <p align="center">
-<a href="https://github.com/emir1031/01_DATA_SCIENCE_NOTEBOOKS">
+<a href="https://github.com/Tommyhappy01Tommyhappy01Tommyhappy01Tommyhappy01Tommyhappy01Tommyhappy01Tommyhappy01Tommyhappy01/01_DATA_SCIENCE_NOTEBOOKS">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=emir1031&repo=01_DATA_SCIENCE_NOTEBOOKS&theme=algolia" />
 </a>
-<a href="https://github.com/emir1031/02_ASSIGNMENTS">
+<a href="https://github.com/Tommyhappy01Tommyhappy01Tommyhappy01Tommyhappy01Tommyhappy01Tommyhappy01Tommyhappy01/02_ASSIGNMENTS">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=emir1031&repo=02_ASSIGNMENTS&theme=algolia" />
 </a>
-<a href="https://github.com/emir1031/03_PROJECTS">
+<a href="https://github.com/Tommyhappy01Tommyhappy01Tommyhappy01Tommyhappy01Tommyhappy01Tommyhappy01/03_PROJECTS">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=emir1031&repo=03_PROJECTS&theme=algolia" />
 </a>
-<a href="https://github.com/emir1031/04_PYTHON">
+<a href="https://github.com/Tommyhappy01Tommyhappy01Tommyhappy01Tommyhappy01Tommyhappy01/04_PYTHON">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=emir1031&repo=04_PYTHON&theme=algolia" />
 </a>
-<a href="https://github.com/emir1031/05_SQL">
+<a href="https://github.com/Tommyhappy01Tommyhappy01Tommyhappy01Tommyhappy01/05_SQL">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=emir1031&repo=05_SQL&theme=algolia" />
 </a>
-<a href="https://github.com/emir1031/06_GSS_SPREADSHEET">
+<a href="https://github.com/Tommyhappy01Tommyhappy01Tommyhappy01/06_GSS_SPREADSHEET">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=emir1031&repo=06_GSS_SPREADSHEET&theme=algolia" />
 </a>
-<a href="https://github.com/emir1031/07_TABLEAU">
+<a href="https://github.com/Tommyhappy01Tommyhappy01/07_TABLEAU">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=emir1031&repo=07_TABLEAU&theme=algolia" />
 </a>
-<a href="https://github.com/emir1031/08_HTML_CSS_JAVASCRIPT">
+<a href="https://github.com/Tommyhappy01/08_HTML_CSS_JAVASCRIPT">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=emir1031&repo=08_HTML_CSS_JAVASCRIPT&theme=algolia" />
 </a>
-<a href="https://github.com/emir1031/09_STATISTICS">
+<a href="https://github.com/Tommyhappy01/09_STATISTICS">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=emir1031&repo=09_STATISTICS&theme=algolia" />
 </a>
-<a href="https://github.com/emir1031/10_CERTIFICATES">
+<a href="https://github.com/Tommyhappy01/10_CERTIFICATES">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=emir1031&repo=10_CERTIFICATES&theme=algolia" />
 </a>
 </p>👋
